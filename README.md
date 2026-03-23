@@ -7,9 +7,13 @@ The dashboard helps in understanding the growth of EV adoption and key insights 
 
 🔑 Key Metrics
 Total Vehicles: 150,413
+
 Average Electric Range: 67.83 Miles
+
 Total BEV Vehicles: 116,745 (77.6%)
+
 Total PHEV Vehicles: 33,668 (22.38%)
+
 📈 Dashboard Insights
 1. Vehicles by Model Year
 EV growth increased significantly after 2016
