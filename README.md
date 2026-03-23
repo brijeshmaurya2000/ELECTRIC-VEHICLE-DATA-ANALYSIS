@@ -1,11 +1,11 @@
 # ELECTRIC-VEHICLE-DATA-ANALYSIS
- Project Overview
+ ## Project Overview
 
 This project presents an Electric Vehicle (EV) Data Analysis Dashboard built to analyze trends, performance, and distribution of electric vehicles across different dimensions like model year, state, and manufacturer.
 
 The dashboard helps in understanding the growth of EV adoption and key insights for decision-making.
 
- Key Metrics
+ # Key Metrics
 
 Total Vehicles: 150,413
 
@@ -55,7 +55,7 @@ Mix of both:
 BEV (Battery Electric Vehicles)
 PHEV (Plug-in Hybrid Electric Vehicles)
 
-🛠 Tools & Technologies Used
+# Tools & Technologies Used
 
 Tableau (for dashboard creation
 
@@ -67,7 +67,7 @@ Compare BEV and PHEV adoption
 Identify top-performing brands and models
 Understand geographical distribution
 
-Conclusion
+# Conclusion
 
 EV adoption is growing rapidly, especially after 2018
 BEVs dominate the market compared to PHEVs
