@@ -15,8 +15,8 @@ Total BEV Vehicles: 116,745 (77.6%)
 
 Total PHEV Vehicles: 33,668 (22.38%)
 
- Dashboard Insights
-1. Vehicles by Model Year
+ ### Dashboard Insights
+#### 1. Vehicles by Model Year
  
 EV growth increased significantly after 2016
 Peak observed in 2023 (37.1K vehicles)
