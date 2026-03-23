@@ -5,7 +5,7 @@ This project presents an Electric Vehicle (EV) Data Analysis Dashboard built to 
 
 The dashboard helps in understanding the growth of EV adoption and key insights for decision-making.
 
- # Key Metrics
+ ### Key Metrics
 
 Total Vehicles: 150,413
 
